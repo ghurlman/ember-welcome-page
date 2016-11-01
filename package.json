@@ -13,7 +13,7 @@
   },
   "repository": "https://github.com/ember-cli/ember-welcome-page",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 4"
   },
   "author": "David Baker <acorncom@gmail.com>",
   "license": "MIT",
